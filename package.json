@@ -1,0 +1,18 @@
+{
+  "name": "b2sign-pad",
+  "version": "1.0.0",
+  "description": "components for b2sign pda application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "b2repo:360weboy/b2-pda.git"
+  },
+  "keywords": [
+    "b2sign"
+  ],
+  "author": "jack yin",
+  "license": "MIT"
+}
